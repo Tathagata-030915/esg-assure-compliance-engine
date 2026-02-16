@@ -186,12 +186,25 @@ This project is strictly aligned with real-world frameworks:
 - **PDF Ingestion:** Using OCR to read actual supplier PDF reports instead of structured CSVs.
 - **Scope 3 Calculation:** Advanced modeling to estimate downstream emissions.
 
+--- 
+
 <h2 align="center">🎥 Demo</h2>
 
 <p align="center">
   <img src="screenRec_dashboard/ESG_REPORT2026-02-1619-27-01-ezgif.com-video-to-gif-converter.gif" width="900">
 </p>
 
+---
+
+<h2 align="center">Screenshots With LLM Audit Response</h2>
+
+<p align="center">
+  <img src="screenshots/1.png" width="900">
+  <img src="screenshots/2.png" width="900">
+  <img src="screenshots/3.png" width="900">
+</p>
+
+---
 
 **Author:** Tathagata Ghosh
 **College:** Manipal University Jaipur, Dehmi Kalan, Rajastan - 303007, India
