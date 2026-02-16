@@ -187,6 +187,11 @@ This project is strictly aligned with real-world frameworks:
 - **Scope 3 Calculation:** Advanced modeling to estimate downstream emissions.
 
 ---
+## 🎥 Demo
+
+![ESG Assure Demo](screenRed_dashboard/ESG_REPORT2026-02-1619-27-01-ezgif.com-video-to-gif-converter.gif)
+
+---
 
 **Author:** Tathagata Ghosh
 **College:** Manipal University Jaipur, Dehmi Kalan, Rajastan - 303007, India
