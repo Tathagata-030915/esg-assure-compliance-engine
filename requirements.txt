@@ -1,0 +1,21 @@
+# === Core Dependencies ===
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# === GenAI ===
+groq>=0.4.0
+
+# === Configuration ===
+python-dotenv>=1.0.0
+
+# === Resilience ===
+# (tenacity is not required — we implemented retry logic natively)
+
+# === Testing ===
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# === Development ===
+# tqdm>=4.0.0  # Optional: for progress bars

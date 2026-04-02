@@ -1,110 +1,102 @@
 Supplier_ID,Issue,Details,Risk_Level
-SUP-1064,Carbon Outlier,Emissions (2735.41) far exceed industry avg (460.8),High
-SUP-1312,Carbon Outlier,Emissions (4304.27) far exceed industry avg (460.8),High
-SUP-1325,Carbon Outlier,Emissions (4123.05) far exceed industry avg (460.8),High
-SUP-1389,Carbon Outlier,Emissions (4440.56) far exceed industry avg (460.8),High
-SUP-1399,Carbon Outlier,Emissions (4857.91) far exceed industry avg (460.8),High
-SUP-1958,Carbon Outlier,Emissions (3997.48) far exceed industry avg (460.8),High
-SUP-1978,Carbon Outlier,Emissions (3948.53) far exceed industry avg (460.8),High
-SUP-1990,Carbon Outlier,Emissions (3185.63) far exceed industry avg (460.8),High
-SUP-1099,Carbon Outlier,Emissions (36862.93) far exceed industry avg (4444.18),High
-SUP-1291,Carbon Outlier,Emissions (31006.54) far exceed industry avg (4444.18),High
-SUP-1441,Carbon Outlier,Emissions (34682.66) far exceed industry avg (4444.18),High
-SUP-1675,Carbon Outlier,Emissions (49013.73) far exceed industry avg (4444.18),High
-SUP-1836,Carbon Outlier,Emissions (27703.09) far exceed industry avg (4444.18),High
-SUP-1853,Carbon Outlier,Emissions (48268.82) far exceed industry avg (4444.18),High
-SUP-1893,Carbon Outlier,Emissions (37612.91) far exceed industry avg (4444.18),High
-SUP-1323,Carbon Outlier,Emissions (703685.12) far exceed industry avg (80400.52),High
-SUP-1558,Carbon Outlier,Emissions (538250.0) far exceed industry avg (80400.52),High
-SUP-1971,Carbon Outlier,Emissions (431696.01) far exceed industry avg (80400.52),High
-SUP-1975,Carbon Outlier,Emissions (600665.52) far exceed industry avg (80400.52),High
-SUP-1044,Carbon Outlier,Emissions (13653.56) far exceed industry avg (1838.61),High
-SUP-1051,Carbon Outlier,Emissions (12522.74) far exceed industry avg (1838.61),High
-SUP-1071,Carbon Outlier,Emissions (17052.21) far exceed industry avg (1838.61),High
-SUP-1143,Carbon Outlier,Emissions (13548.35) far exceed industry avg (1838.61),High
-SUP-1156,Carbon Outlier,Emissions (14483.96) far exceed industry avg (1838.61),High
-SUP-1376,Carbon Outlier,Emissions (11444.85) far exceed industry avg (1838.61),High
-SUP-1640,Carbon Outlier,Emissions (16497.73) far exceed industry avg (1838.61),High
-SUP-1667,Carbon Outlier,Emissions (15577.09) far exceed industry avg (1838.61),High
-SUP-1924,Carbon Outlier,Emissions (18138.57) far exceed industry avg (1838.61),High
-SUP-1309,Carbon Outlier,Emissions (95037.09) far exceed industry avg (15058.19),High
-SUP-1465,Carbon Outlier,Emissions (146113.55) far exceed industry avg (15058.19),High
-SUP-1559,Carbon Outlier,Emissions (116304.72) far exceed industry avg (15058.19),High
-SUP-1596,Carbon Outlier,Emissions (93358.28) far exceed industry avg (15058.19),High
-SUP-1644,Carbon Outlier,Emissions (97392.12) far exceed industry avg (15058.19),High
-SUP-1696,Carbon Outlier,Emissions (87454.82) far exceed industry avg (15058.19),High
-SUP-1783,Carbon Outlier,Emissions (117648.37) far exceed industry avg (15058.19),High
-SUP-1972,Carbon Outlier,Emissions (106441.66) far exceed industry avg (15058.19),High
-SUP-1973,Carbon Outlier,Emissions (146981.89) far exceed industry avg (15058.19),High
-SUP-1003,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1013,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1042,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1067,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1069,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1079,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1089,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1098,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1110,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1146,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1163,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1172,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1174,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1181,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1193,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1195,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1206,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1211,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1257,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1259,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1261,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1299,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1301,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1311,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1312,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1313,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1329,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1349,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1356,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1358,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1396,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1495,Carbon Outlier,Emissions (38558.11) far exceed industry avg (3762.77),High
+SUP-1509,Carbon Outlier,Emissions (36294.14) far exceed industry avg (3762.77),High
+SUP-1684,Carbon Outlier,Emissions (34959.94) far exceed industry avg (3762.77),High
+SUP-1840,Carbon Outlier,Emissions (34174.37) far exceed industry avg (3762.77),High
+SUP-1927,Carbon Outlier,Emissions (35396.27) far exceed industry avg (3762.77),High
+SUP-1135,Carbon Outlier,Emissions (844672.39) far exceed industry avg (96351.64),High
+SUP-1252,Carbon Outlier,Emissions (808136.95) far exceed industry avg (96351.64),High
+SUP-1325,Carbon Outlier,Emissions (868456.95) far exceed industry avg (96351.64),High
+SUP-1601,Carbon Outlier,Emissions (675364.31) far exceed industry avg (96351.64),High
+SUP-1611,Carbon Outlier,Emissions (511388.02) far exceed industry avg (96351.64),High
+SUP-1774,Carbon Outlier,Emissions (537996.25) far exceed industry avg (96351.64),High
+SUP-1953,Carbon Outlier,Emissions (605279.56) far exceed industry avg (96351.64),High
+SUP-1958,Carbon Outlier,Emissions (849621.66) far exceed industry avg (96351.64),High
+SUP-1983,Carbon Outlier,Emissions (746084.75) far exceed industry avg (96351.64),High
+SUP-1077,Carbon Outlier,Emissions (12416.3) far exceed industry avg (1954.93),High
+SUP-1282,Carbon Outlier,Emissions (10598.78) far exceed industry avg (1954.93),High
+SUP-1310,Carbon Outlier,Emissions (10989.74) far exceed industry avg (1954.93),High
+SUP-1373,Carbon Outlier,Emissions (13578.08) far exceed industry avg (1954.93),High
+SUP-1463,Carbon Outlier,Emissions (16343.2) far exceed industry avg (1954.93),High
+SUP-1469,Carbon Outlier,Emissions (13707.01) far exceed industry avg (1954.93),High
+SUP-1856,Carbon Outlier,Emissions (10249.07) far exceed industry avg (1954.93),High
+SUP-1981,Carbon Outlier,Emissions (12252.47) far exceed industry avg (1954.93),High
+SUP-1300,Carbon Outlier,Emissions (3780.58) far exceed industry avg (393.9),High
+SUP-1308,Carbon Outlier,Emissions (3760.02) far exceed industry avg (393.9),High
+SUP-1333,Carbon Outlier,Emissions (4041.16) far exceed industry avg (393.9),High
+SUP-1543,Carbon Outlier,Emissions (2155.54) far exceed industry avg (393.9),High
+SUP-1586,Carbon Outlier,Emissions (2590.45) far exceed industry avg (393.9),High
+SUP-1061,Carbon Outlier,Emissions (74773.1) far exceed industry avg (11914.39),High
+SUP-1154,Carbon Outlier,Emissions (123750.12) far exceed industry avg (11914.39),High
+SUP-1606,Carbon Outlier,Emissions (74838.36) far exceed industry avg (11914.39),High
+SUP-1634,Carbon Outlier,Emissions (56697.36) far exceed industry avg (11914.39),High
+SUP-1749,Carbon Outlier,Emissions (64643.63) far exceed industry avg (11914.39),High
+SUP-1948,Carbon Outlier,Emissions (80767.91) far exceed industry avg (11914.39),High
+SUP-1001,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1026,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1032,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1033,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1034,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1041,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1082,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1087,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1100,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1114,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1143,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1159,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1162,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1169,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1185,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1186,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1190,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1221,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1267,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1270,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1303,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1314,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1322,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1328,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1348,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1357,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1387,Reporting Gap,Diversity score missing or null.,Medium
 SUP-1408,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1435,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1428,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1436,Reporting Gap,Diversity score missing or null.,Medium
 SUP-1452,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1464,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1465,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1519,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1525,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1530,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1563,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1569,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1573,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1579,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1609,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1660,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1671,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1692,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1712,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1717,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1731,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1742,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1752,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1767,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1797,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1806,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1828,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1850,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1851,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1453,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1463,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1474,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1526,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1552,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1561,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1576,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1578,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1595,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1606,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1608,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1616,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1625,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1675,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1719,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1721,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1740,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1758,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1771,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1800,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1803,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1822,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1827,Reporting Gap,Diversity score missing or null.,Medium
 SUP-1867,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1909,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1917,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1918,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1942,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1960,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1965,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1967,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1989,Reporting Gap,Diversity score missing or null.,Medium
-SUP-1126,Logical Anomaly,Manufacturing reported 0 water usage (Potential Greenwashing).,High
-SUP-1550,Logical Anomaly,Manufacturing reported 0 water usage (Potential Greenwashing).,High
-SUP-1567,Logical Anomaly,Manufacturing reported 0 water usage (Potential Greenwashing).,High
-SUP-1716,Logical Anomaly,Manufacturing reported 0 water usage (Potential Greenwashing).,High
-SUP-1749,Logical Anomaly,Manufacturing reported 0 water usage (Potential Greenwashing).,High
+SUP-1870,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1880,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1892,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1920,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1938,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1948,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1963,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1970,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1987,Reporting Gap,Diversity score missing or null.,Medium
+SUP-1400,Logical Anomaly,Manufacturing reported 0 water usage (Potential Greenwashing).,High
+SUP-1542,Logical Anomaly,Manufacturing reported 0 water usage (Potential Greenwashing).,High
+SUP-1692,Logical Anomaly,Manufacturing reported 0 water usage (Potential Greenwashing).,High
+SUP-1888,Logical Anomaly,Manufacturing reported 0 water usage (Potential Greenwashing).,High
